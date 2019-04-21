@@ -1,1 +1,0 @@
-# burakdeniz.io

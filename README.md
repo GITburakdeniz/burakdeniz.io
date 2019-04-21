@@ -1,4 +1,4 @@
-# Python Programalama Dili ile Algoritmalar ve Veri Yapıları.
+# Python Programlama Dili ile Algoritmalar ve Veri Yapıları.
 
 ## License
 
